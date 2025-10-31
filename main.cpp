@@ -1,7 +1,6 @@
-# AyED
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Hola Santiago Luis Aliaga Choque" << endl;
+    cout << "kra noob" << endl;
     return 0;
 }
