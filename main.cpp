@@ -1,7 +1,7 @@
 # AyED
 #include <iostream>
-
+using namespace std;
 int main() {
-    cout << "Hola Santiago Luis Aliaga Choque, g++ (Rev2, Built by MSYS2 project) 14.2.0" << endl;
+    cout << "Hola Santiago Luis Aliaga Choque" << endl;
     return 0;
 }
